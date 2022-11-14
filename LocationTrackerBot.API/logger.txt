@@ -1,0 +1,223 @@
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message"}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Unexpected character encountered while parsing value: O. Path '', line 0, position 0.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+The requested operation requires an element of type 'String', but the target element has type 'Object'.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Unexpected character encountered while parsing value: O. Path '', line 0, position 0.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+The requested operation requires an element of type 'String', but the target element has type 'Object'.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+JSON integer 1667687740586 is too large or small for an Int32. Path 'timestamp', line 1, position 44.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Unexpected character encountered while parsing value: O. Path '', line 0, position 0.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Unexpected character encountered while parsing value: O. Path '', line 0, position 0.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request 1: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+The header name format is invalid.
+An unhandled exception has occurred while executing the request.
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+The header name format is invalid.
+An unhandled exception has occurred while executing the request.
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+The header name format is invalid.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+The header name format is invalid.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"conversation_started","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Этот хост неизвестен.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"conversation_started","timestamp":1667825428213,"chat_hostname":"SN-116_","message_token":5770387766213964000,"type":"open","user":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"subscribed":false}
+Object reference not set to an instance of an object.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"359339077004361","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"359339077004361"},"silent":false}
+The ConnectionString property has not been initialized.
+An unhandled exception has occurred while executing the request.
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"Hi","type":"359339077004361"},"silent":false}
+The ConnectionString property has not been initialized.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"359339077004361","type":"text"},"silent":false}
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Viber request: {"event":"message","timestamp":1667687740586,"chat_hostname":"SN-CALLBACK-04_","message_token":5769810262940014000,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":10},"message":{"text":"hi","type":"text"},"silent":false}
+The ConnectionString property has not been initialized.
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
