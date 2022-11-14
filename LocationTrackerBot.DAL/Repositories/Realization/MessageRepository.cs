@@ -48,7 +48,7 @@ namespace LocationTrackerBot.DAL.Repositories.Realization
 
         private String GetConnection()
         {
-            return Environment.GetEnvironmentVariable("Data Source = SQL5102.site4now.net; Initial Catalog = db_a8fc9d_golart001; User Id = db_a8fc9d_golart001_admin; Password = qwerty123");
+            return Environment.GetEnvironmentVariable("ConnectionString");
         }
     }
 }
