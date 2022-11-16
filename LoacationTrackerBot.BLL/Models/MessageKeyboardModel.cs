@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text.Json.Serialization;
 using LoacationTrackerBot.BLL.Models.ExtensionModels;
 using Newtonsoft.Json;
 

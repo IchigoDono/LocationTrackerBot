@@ -43,11 +43,20 @@ namespace LoacationTrackerBot.BLL.Services.Realization
                     switch (responseModel.Message.Text)
                     {
                         case "ТОП 10 прогулянок":
-                            var temp = await _messageRepository.GetTableStroll(responseModel.Message.TrackingData);
-                            await MessageTableSender(responseModel, temp.Take(6).ToList());
-                            await MessageTableSender(responseModel, temp.Skip(6).Take(4).ToList());
-                            await MessageKeyboardSender(responseModel, ConstantHelper.Back);
-                            break;
+                            List<TableModel> strollList = await _messageRepository.GetTableStroll(responseModel.Message.TrackingData);
+                            if (strollList.Count() < 10)
+                            {
+                                await MessageTextSender(responseModel, ConstantHelper.Error);
+                            }
+                            else
+                            {
+                                List<Buttons> buttons = ListCompletionHelper.ListCompletion();
+                                await MessageTableSender(responseModel, strollList.Take(6).ToList(), buttons);
+                                await MessageTableSender(responseModel, strollList.Skip(6).Take(4).ToList());
+                                await MessageKeyboardSender(responseModel, ConstantHelper.Back);
+                            }
+                                break;
+                            
                         case "Назад":
                             await MessageTextSender(responseModel, "Введите EMEI");
                             break;
@@ -154,10 +163,9 @@ namespace LoacationTrackerBot.BLL.Services.Realization
 
             RestResponse result = await client.PostAsync(request);
         }
-        public async Task MessageTableSender(ResponseModel responseModel, List<TableModel> tableModel)
+        public async Task MessageTableSender(ResponseModel responseModel, List<TableModel> tableModel, List<Buttons> buttons)
         {
             Int32 res = 0;
-            List<Buttons> buttons = ListCompletionHelper.ListCompletion();
             foreach (TableModel tableModel1 in tableModel)
             {
                 ++res;
@@ -172,6 +180,40 @@ namespace LoacationTrackerBot.BLL.Services.Realization
                 MinApiVersion = 7,
                 Type = "rich_media",
                 RichMedia = new RichMedia { 
+                    Type = "rich_media",
+                    Buttons = buttons
+                }
+            };
+
+            RestClient client = new RestClient(ConstantHelper.ViberSendMessage);
+            String jsonObject = JsonConvert.SerializeObject(messageTableModel);
+
+            RestRequest request = new RestRequest()
+                 .AddStringBody(jsonObject, ContentType.Json)
+                 //.AddJsonBody(messageTableModel)
+                 .AddHeader(ConstantHelper.ViberAuthToken, ConstantHelper.ViberAuthTokenValue);
+            RestResponse result = await client.PostAsync(request);
+        }
+        public async Task MessageTableSender(ResponseModel responseModel, List<TableModel> tableModel)
+        {
+            Int32 res = 0;
+            List<Buttons> buttons = new List<Buttons>();
+
+            foreach (TableModel tableModel1 in tableModel)
+            {
+                ++res;
+                buttons.Add(ListCompletionHelper.ConfigNewButton("Прогулянка" + res.ToString()));
+                buttons.Add(ListCompletionHelper.ConfigNewButton(tableModel1.Distance));
+                buttons.Add(ListCompletionHelper.ConfigNewButton(tableModel1.Minutes));
+            }
+
+            MessageTableModel messageTableModel = new MessageTableModel()
+            {
+                Receiver = responseModel.Sender.Id,
+                MinApiVersion = 7,
+                Type = "rich_media",
+                RichMedia = new RichMedia
+                {
                     Type = "rich_media",
                     Buttons = buttons
                 }

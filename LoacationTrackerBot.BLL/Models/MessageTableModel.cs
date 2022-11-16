@@ -1,7 +1,6 @@
 ﻿using LoacationTrackerBot.BLL.Models.ExtensionModels;
 using Newtonsoft.Json;
 using System;
-using System.Text.Json.Serialization;
 
 namespace LoacationTrackerBot.BLL.Models
 {

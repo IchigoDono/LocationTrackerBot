@@ -1552,3 +1552,219 @@ Viber request: {"event":"seen","timestamp":1668640789922,"chat_hostname":"SN-CAL
 Viber request: {"event":"delivered","timestamp":1668640790182,"chat_hostname":"SN-CALLBACK-10_","message_token":5773807640994274665,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
 Viber request: {"event":"delivered","timestamp":1668640790969,"chat_hostname":"SN-CALLBACK-17_","message_token":5773807640994274665,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
 Viber request: {"event":"seen","timestamp":1668640791191,"chat_hostname":"SN-CALLBACK-10_","message_token":5773807640994274665,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Failed to determine the https port for redirect.
+Viber request: {"event":"message","timestamp":1668641186999,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809306821571729,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"359339077003915","type":"text"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668641193093,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809330862574190,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641193750,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809334113164235,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641194325,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809330862574190,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668641194836,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809339713303983,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"\u0422\u041E\u041F 10 \u043F\u0440\u043E\u0433\u0443\u043B\u044F\u043D\u043E\u043A","type":"text","tracking_data":"359339077003915"},"silent":false}
+Viber request: {"event":"seen","timestamp":1668641195453,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809334113164235,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641195582,"chat_hostname":"SN-CALLBACK-17_","message_token":5773809334113164235,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641195582,"chat_hostname":"SN-CALLBACK-17_","message_token":5773809330862574190,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641197296,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809348671589030,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641197829,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809351259476082,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641197840,"chat_hostname":"SN-CALLBACK-17_","message_token":5773809348671589030,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641198396,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809353562150921,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641198579,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809351259476082,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641198525,"chat_hostname":"SN-CALLBACK-16_","message_token":5773809353562150921,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641198525,"chat_hostname":"SN-CALLBACK-16_","message_token":5773809351259476082,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641199727,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809351259476082,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668641202123,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809370277197513,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"\u041D\u0430\u0437\u0430\u0434","type":"text"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668641203310,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809374026154839,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641203315,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809353562150921,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641204014,"chat_hostname":"SN-CALLBACK-17_","message_token":5773809374026154839,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641204470,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809374026154839,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Failed to determine the https port for redirect.
+Viber request: {"event":"message","timestamp":1668641234367,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809505665136517,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"35933907700391","type":"text"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668641239119,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809524270318013,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641240436,"chat_hostname":"SN-CALLBACK-10_","message_token":5773809524270318013,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641242652,"chat_hostname":"SN-CALLBACK-17_","message_token":5773809524270318013,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Failed to determine the https port for redirect.
+Viber request: {"event":"message","timestamp":1668641663048,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811303519991698,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"359339077003915","type":"text"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668641669575,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811329440040101,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641670254,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811332732568753,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641670784,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811329440040101,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641670758,"chat_hostname":"SN-CALLBACK-17_","message_token":5773811332732568753,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641670758,"chat_hostname":"SN-CALLBACK-17_","message_token":5773811329440040101,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668641672717,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811344074716767,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"\u0422\u041E\u041F 10 \u043F\u0440\u043E\u0433\u0443\u043B\u044F\u043D\u043E\u043A","type":"text","tracking_data":"359339077003915"},"silent":false}
+Viber request: {"event":"seen","timestamp":1668641673904,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811332732568753,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641675089,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811352735210412,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641675579,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811355096603665,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641675639,"chat_hostname":"SN-CALLBACK-16_","message_token":5773811352735210412,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641676109,"chat_hostname":"SN-CALLBACK-17_","message_token":5773811355096603665,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641676132,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811357416053693,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641676441,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811355096603665,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641676600,"chat_hostname":"SN-CALLBACK-17_","message_token":5773811357416053693,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641677595,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811355096603665,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668641686551,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811402111300747,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"\u041D\u0430\u0437\u0430\u0434","type":"text"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668641687828,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811406241945681,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641687717,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811357416053693,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641688859,"chat_hostname":"SN-CALLBACK-10_","message_token":5773811406241945681,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641689122,"chat_hostname":"SN-CALLBACK-17_","message_token":5773811406241945681,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668641856666,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812115625326196,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"359339077004361","type":"text"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668641859140,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812124906570166,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641859669,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812127267966529,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641860343,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812124906570166,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641861598,"chat_hostname":"SN-CALLBACK-17_","message_token":5773812124906570166,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641861598,"chat_hostname":"SN-CALLBACK-17_","message_token":5773812127267966529,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668641871066,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812176040080565,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"\u0422\u041E\u041F 10 \u043F\u0440\u043E\u0433\u0443\u043B\u044F\u043D\u043E\u043A","type":"text","tracking_data":"359339077004361"},"silent":false}
+Viber request: {"event":"seen","timestamp":1668641872230,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812127267966529,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641873596,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812185069671315,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641874077,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812187699502077,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641874657,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812189968618400,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641874472,"chat_hostname":"SN-CALLBACK-17_","message_token":5773812185069671315,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641875066,"chat_hostname":"SN-CALLBACK-17_","message_token":5773812187699502077,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641875067,"chat_hostname":"SN-CALLBACK-17_","message_token":5773812189968618400,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641876344,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812185069671315,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641880744,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812189968618400,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668641885873,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812238132557529,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"\u041D\u0430\u0437\u0430\u0434","type":"text"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668641887168,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812242212867103,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641888410,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812242212867103,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641888308,"chat_hostname":"SN-CALLBACK-17_","message_token":5773812242212867103,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Failed to determine the https port for redirect.
+Viber request: {"event":"message","timestamp":1668641907218,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812327634810385,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"359339077004361","type":"text"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668641913357,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812352153960805,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641914072,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812355295499622,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641914560,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812352153960805,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668641915370,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812361835165524,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"\u0422\u041E\u041F 10 \u043F\u0440\u043E\u0433\u0443\u043B\u044F\u043D\u043E\u043A","type":"text","tracking_data":"359339077004361"},"silent":false}
+Viber request: {"event":"seen","timestamp":1668641915702,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812355295499622,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641916028,"chat_hostname":"SN-CALLBACK-17_","message_token":5773812352153960805,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641916028,"chat_hostname":"SN-CALLBACK-17_","message_token":5773812355295499622,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641917893,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812371221267530,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641918452,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812373670740414,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641918573,"chat_hostname":"SN-CALLBACK-13_","message_token":5773812371221267530,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641919001,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812376065688664,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641919055,"chat_hostname":"SN-CALLBACK-17_","message_token":5773812373670740414,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641919171,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812373670740414,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641919497,"chat_hostname":"SN-CALLBACK-17_","message_token":5773812376065688664,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641920317,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812373670740414,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668641922504,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812391769912449,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"\u041D\u0430\u0437\u0430\u0434","type":"text"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668641923705,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812395518876308,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641923708,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812376065688664,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668641924861,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812395518876308,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668641964273,"chat_hostname":"SN-CALLBACK-02_","message_token":5773812395518876308,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Failed to determine the https port for redirect.
+Viber request: {"event":"unsubscribed","timestamp":1668642012017,"chat_hostname":"SN-134_","user_id":"v9pI55YjY4TELsywBFEEMQ==","message_token":5773812766929434113}
+Viber request: {"event":"conversation_started","timestamp":1668642028678,"chat_hostname":"SN-134_","message_token":5773812836810732639,"type":"open","user":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"subscribed":false}
+Viber request: {"event":"message","timestamp":1668642032923,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812854930126088,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"359339077004361","type":"text"},"silent":false}
+Viber request: {"event":"message","timestamp":1668642032923,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812854930126088,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"359339077004361","type":"text"},"silent":false}
+Viber request: {"event":"message","timestamp":1668642032923,"chat_hostname":"SN-CALLBACK-10_","message_token":5773812854930126088,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"359339077004361","type":"text"},"silent":false}
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Failed to determine the https port for redirect.
+Viber request: {"event":"webhook","timestamp":1668642544973,"chat_hostname":"SN-CHAT-03_","message_token":5773815002308167918}
+Viber request: {"event":"message","timestamp":1668642552237,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815033069942629,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"https://4c11-178-151-250-200.eu.ngrok.io","type":"text"},"silent":false}
+Viber request: {"event":"message","timestamp":1668642552237,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815033069942629,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"https://4c11-178-151-250-200.eu.ngrok.io","type":"text"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668642572355,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815115663430386,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642572115,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815115399192117,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642573733,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815115663430386,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642573997,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815115663430386,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642573997,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815115399192117,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668642577303,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815138267281166,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"359339077004361","type":"text"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668642588090,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815182466110352,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642588658,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815184877831140,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642588471,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815182466110352,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642589609,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815182466110352,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668642577303,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815138267281166,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"359339077004361","type":"text"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668642590599,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815182466110352,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642590599,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815184877831140,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642590747,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815184877831140,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642601815,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815240032933317,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642602260,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815240032933317,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642602342,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815242272690158,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668642577303,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815138267281166,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"359339077004361","type":"text"},"silent":false}
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Failed to determine the https port for redirect.
+Viber request: {"event":"delivered","timestamp":1668642603968,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815242272690158,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642603968,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815240032933317,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642603403,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815240032933317,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668642590500,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815193539818723,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"\u0422\u041E\u041F 10 \u043F\u0440\u043E\u0433\u0443\u043B\u044F\u043D\u043E\u043A","type":"text","tracking_data":"359339077004361"},"silent":false}
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\source\repos\LocationTrackerBot\LocationTrackerBot.API
+Failed to determine the https port for redirect.
+Viber request: {"event":"message","timestamp":1668642646985,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815430480246136,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"359339077004361","type":"text","tracking_data":"359339077004361"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668642651357,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815447793584690,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642651946,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815450326944314,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642652591,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815447793584690,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668642652824,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815454949815929,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"\u0422\u041E\u041F 10 \u043F\u0440\u043E\u0433\u0443\u043B\u044F\u043D\u043E\u043A","type":"text","tracking_data":"359339077004361"},"silent":false}
+Viber request: {"event":"message","timestamp":1668642590500,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815193539818723,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"\u0422\u041E\u041F 10 \u043F\u0440\u043E\u0433\u0443\u043B\u044F\u043D\u043E\u043A","type":"text","tracking_data":"359339077004361"},"silent":false}
+Viber request: {"event":"seen","timestamp":1668642653721,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815450326944314,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642653757,"chat_hostname":"SN-CALLBACK-08_","message_token":5773815450326944314,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642653757,"chat_hostname":"SN-CALLBACK-08_","message_token":5773815447793584690,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642654819,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815462356210440,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642655412,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815464684046974,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642655445,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815462356210440,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642655954,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815467141907711,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642656043,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815464684046974,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642656090,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815464684046974,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642656223,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815468186290828,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642656522,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815467141907711,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642656749,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815470480576465,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642656522,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815468186290828,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642657262,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815470480576465,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642657270,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815472670006782,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642657273,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815470480576465,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642657278,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815470480576465,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642657810,"chat_hostname":"SN-CALLBACK-08_","message_token":5773815472670006782,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668642658303,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815477930407770,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"\u041D\u0430\u0437\u0430\u0434","type":"text"},"silent":false}
+Viber request: {"event":"seen","timestamp":1668642658410,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815470480576465,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642659249,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815480957951510,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642659489,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815480957951510,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642659911,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815480957951510,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642660632,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815480957951510,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668642663746,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815500776780843,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"359339077003915","type":"text"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668642665919,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815508875236862,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642666445,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815511152743405,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642666478,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815508875236862,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642666963,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815511152743405,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642667112,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815508875236862,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668642667865,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815518044730580,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"\u0422\u041E\u041F 10 \u043F\u0440\u043E\u0433\u0443\u043B\u044F\u043D\u043E\u043A","type":"text","tracking_data":"359339077003915"},"silent":false}
+Viber request: {"event":"seen","timestamp":1668642668253,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815511152743405,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642669865,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815525396597645,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642670376,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815527623774262,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642670415,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815525396597645,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642670913,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815529884504127,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642671146,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815527623774262,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642670916,"chat_hostname":"SN-CALLBACK-08_","message_token":5773815527623774262,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642671408,"chat_hostname":"SN-CALLBACK-16_","message_token":5773815529884504127,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642672293,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815527623774262,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"message","timestamp":1668642676236,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815553151055407,"sender":{"id":"v9pI55YjY4TELsywBFEEMQ==","name":"Artem","language":"ru","country":"UA","api_version":8},"message":{"text":"\u041D\u0430\u0437\u0430\u0434","type":"text"},"silent":false}
+Viber request: {"event":"delivered","timestamp":1668642677167,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815556107289007,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642677416,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815556107289007,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"delivered","timestamp":1668642678128,"chat_hostname":"SN-CALLBACK-17_","message_token":5773815556107289007,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}
+Viber request: {"event":"seen","timestamp":1668642678542,"chat_hostname":"SN-CALLBACK-10_","message_token":5773815556107289007,"user_id":"v9pI55YjY4TELsywBFEEMQ=="}

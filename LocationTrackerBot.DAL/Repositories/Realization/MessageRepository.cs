@@ -1,7 +1,6 @@
 ﻿using LocationTrackerBot.DAL.Repositories.Interfaces;
 using System.Threading.Tasks;
 using System;
-using System.Data;
 using Skinhealth.DAL.Extensions.Queries;
 using System.Data.SqlClient;
 using Dapper;
