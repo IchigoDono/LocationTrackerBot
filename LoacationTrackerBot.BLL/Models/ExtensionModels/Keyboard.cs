@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
@@ -6,11 +7,11 @@ namespace LoacationTrackerBot.BLL.Models.ExtensionModels
 {
     public class Keyboard
     {
-        [JsonPropertyName("Type")]
+        [JsonProperty("Type")]
         public String Type { get; set; }
-        [JsonPropertyName("DefaultHeight")]
+        [JsonProperty("DefaultHeight")]
         public Boolean DefaultHeight { get; set; }
-        [JsonPropertyName("Buttons")]
+        [JsonProperty("Buttons")]
         public List<Buttons> Buttons { get; set; }
     }
 }

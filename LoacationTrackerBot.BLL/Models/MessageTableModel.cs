@@ -1,4 +1,5 @@
 ﻿using LoacationTrackerBot.BLL.Models.ExtensionModels;
+using Newtonsoft.Json;
 using System;
 using System.Text.Json.Serialization;
 
@@ -6,11 +7,13 @@ namespace LoacationTrackerBot.BLL.Models
 {
     public class MessageTableModel
     {
+        [JsonProperty("receiver")]
         public String Receiver { get; set; }
-        [JsonPropertyName("min_api_version")]
+        [JsonProperty("min_api_version")]
         public Int32 MinApiVersion { get; set; }
+        [JsonProperty("type")]
         public String Type { get; set; }
-        [JsonPropertyName("rich_media")]
+        [JsonProperty("rich_media")]
         public RichMedia RichMedia { get; set; }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Text.Json.Serialization;
 
 namespace LoacationTrackerBot.BLL.Models.ExtensionModels
@@ -17,6 +18,5 @@ namespace LoacationTrackerBot.BLL.Models.ExtensionModels
         public String Columns { get; set; }
         [JsonPropertyName("Rows")]
         public String Rows { get; set; }
-
     }
 }

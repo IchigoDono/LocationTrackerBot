@@ -11,7 +11,7 @@ namespace LoacationTrackerBot.BLL.Helper
         public const String Back = "Назад";
         public const String Top10 = "ТОП 10 прогулянок";
         public const String InputEMEI = "Введіть EMEI";
-        public const String Error = "Команди не існує";
+        public const String Error = "Команди не існує або неправильний IMEI";
 
     }
 }

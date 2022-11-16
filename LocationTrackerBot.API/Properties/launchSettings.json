@@ -1,5 +1,4 @@
-﻿{
-  "$schema": "http://json.schemastore.org/launchsettings.json",
+{
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
@@ -8,30 +7,27 @@
       "sslPort": 44360
     }
   },
+  "$schema": "http://json.schemastore.org/launchsettings.json",
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
+        "ConnectionString": "Data Source=SQL5102.site4now.net;Initial Catalog=db_a8fc9d_golart001;User Id=db_a8fc9d_golart001_admin;Password=qwerty123",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
     "LocationTrackerBot.API": {
       "commandName": "Project",
-      "dotnetRunMessages": "true",
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "https://localhost:5001;http://localhost:5000",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ConnectionString": "Data Source=SQL5102.site4now.net;Initial Catalog=db_a8fc9d_golart001;User Id=db_a8fc9d_golart001_admin;Password=qwerty123"
       },
-      "ConnectionString": {
-        "Data Source": "SQL5102.site4now.net",
-        "Initial Catalog": "db_a8fc9d_golart001",
-        "User Id": "db_a8fc9d_golart001_admin",
-        "Password": "qwerty123"
-      }
+      "dotnetRunMessages": "true",
+      "applicationUrl": "http://localhost:5000"
     }
   }
 }

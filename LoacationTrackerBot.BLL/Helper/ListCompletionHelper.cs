@@ -13,26 +13,27 @@ namespace LoacationTrackerBot.BLL.Helper
                 {
                     Columns = "2",
                     Rows = "1",
-                    Text = "Name",
-                    ActionBody = "none",
-                    BgColor = "#f7bb3f"
+                    Text = "Название",
+                    ActionType = "none",
+                    BgColor = "#778899"
                 },
                 new Buttons()
                 {
                     Columns = "2",
                     Rows = "1",
-                    Text = "Distance",
-                    ActionBody = "none",
-                    BgColor = "#f7bb3f"
+                    Text = "Километров",
+                    ActionType = "none",
+                    BgColor = "#778899",
+                    TextSize = "small"
                 },
                 new Buttons()
                 {
 
                     Columns = "2",
                     Rows = "1",
-                    Text = "Minutes",
-                    ActionBody = "none",
-                    BgColor = "#f7bb3f"
+                    Text = "Минут",
+                    ActionType = "none",
+                    BgColor = "#778899"
                 }
             };
             return buttons;
@@ -45,9 +46,10 @@ namespace LoacationTrackerBot.BLL.Helper
 
                 Columns = "2",
                 Rows = "1",
-                Text = "Minutes",
-                ActionBody = "none",
-                BgColor = "#f7bb3f"
+                Text = text,
+                ActionType = "none",
+                BgColor = "#DCDCDC",
+                TextSize = "small"
             };
         }
 

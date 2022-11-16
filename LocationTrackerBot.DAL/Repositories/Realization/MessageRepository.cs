@@ -7,6 +7,7 @@ using System.Data.SqlClient;
 using Dapper;
 using LoacationTrackerBot.BLL.Models;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace LocationTrackerBot.DAL.Repositories.Realization
 {
@@ -18,8 +19,8 @@ namespace LocationTrackerBot.DAL.Repositories.Realization
             {
                 connection.Open();
                 var paramsValues = new { emei = emei };
-                InformationModel result = await connection.QuerySingleAsync(InformationStrollQueries.Get, paramsValues);
-                return result;
+                IEnumerable<InformationModel> result = await connection.QueryAsync<InformationModel>(InformationStrollQueries.Get, paramsValues);
+                return result.FirstOrDefault();
             }
 
             
@@ -30,8 +31,8 @@ namespace LocationTrackerBot.DAL.Repositories.Realization
             {
                 connection.Open();
                 var paramsValues = new { emei = emei };
-                List<TableModel> result = await connection.QuerySingleAsync(InformationStrollQueries.GetTable, paramsValues);
-                return result;
+                IEnumerable<TableModel> result = await connection.QueryAsync<TableModel>(InformationStrollQueries.GetTable, paramsValues);
+                return result.ToList();
             }
         }
 
@@ -41,8 +42,8 @@ namespace LocationTrackerBot.DAL.Repositories.Realization
             {
                 connection.Open();
                 var paramsValues = new { emei = emei };
-                String result = await connection.QuerySingleAsync(InformationStrollQueries.GetEmei, paramsValues);
-                return result;
+                IEnumerable<string> result = await connection.QueryAsync<String>(InformationStrollQueries.GetEmei, paramsValues);
+                return result.FirstOrDefault();
             }
         }
 

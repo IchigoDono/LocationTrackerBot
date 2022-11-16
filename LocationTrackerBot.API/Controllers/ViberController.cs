@@ -25,6 +25,7 @@ namespace LocationTrackerBot.API.Controller
         {
             try
             {
+                var temp = Environment.GetEnvironmentVariable("ConnectionString");
                 _logger.LogInformation($"Viber request: {json}");
                 await _messageService.DistributionService(json);
                 return new OkObjectResult(Path.Combine(Directory.GetCurrentDirectory()));
